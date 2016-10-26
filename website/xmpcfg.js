@@ -1,0 +1,1 @@
+var xmpcfg = {access: { accessToken: 'ee187311-cb4a-4a93-94df-d481a8141b05_f1a15406-a949-431c-b2bc-ffbc171d1c9f_d7e3ba1a704b4d309b18c21deda7acdd', url: 'http://122.155.5.80/XMPieXMPL_REST_API', circleProjectID:'f1a15406-a949-431c-b2bc-ffbc171d1c9f', circleProjectName: 'Sign In With Google' }};
